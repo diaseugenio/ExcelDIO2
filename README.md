@@ -6,7 +6,7 @@ Este repositório contém os dados e (potencialmente) scripts relacionados a uma
 
 Os arquivos CSV contidos neste repositório representam diferentes seções ou tipos de informações que seriam consolidadas pela ferramenta Excel. Eles são derivados de abas de uma planilha mestra (`Ferramenta_IR.xlsx`, por exemplo).
 
-* `Ferramenta_IR - TITULAR.csv`: Provavelmente contém informações pessoais e cadastrais do titular da declaração.
+* `Ferramenta_IR - TITULAR.csv`: Contém informações pessoais e cadastrais do titular da declaração.
 * `Ferramenta_IR - INFORMES.csv`: Pode incluir dados de informes de rendimentos, extratos bancários, demonstrativos de investimentos, etc.
 * `Ferramenta_IR - NOTAS.csv`: Possivelmente abrange informações de notas fiscais de serviços médicos, recibos de despesas dedutíveis, notas de corretagem (para investimentos), etc.
 * `Ferramenta_IR - TABELAS.csv`: Provavelmente contém tabelas de referência, como códigos de bens e direitos, tipos de rendimentos, despesas dedutíveis, ou outras classificações úteis para o IR.
